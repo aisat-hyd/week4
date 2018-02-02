@@ -1,0 +1,11 @@
+https://www.analyticsvidhya.com/blog/2015/06/machine-learning-basics/
+
+https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/
+
+https://www.analyticsvidhya.com/blog/2015/02/avoid-over-fitting-regularization/
+
+https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-ridge-lasso-regression-python/
+
+http://ruder.io/#open
+http://www.chioka.in/
+
